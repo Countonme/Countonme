@@ -17,15 +17,15 @@
 ---
 
 ## 🛠 Tech Stack
+ ##📫 I code in
 <p align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,qt,rust,dotnet,python,java,go,js,ts,swift,php,r,ruby,delphi" />
  </p>
- ## 🛠 IDE - I Use
+ ##📫 IDE - I Use
  <p align="center">
     <img src="https://skillicons.dev/icons?i=androidstudio,phpstorm,idea,webstorm,pycharm,rider,robloxstudio,eclipse,clion,anaconda,arduino,vim,visualstudio,vscode" />
  </p>
-
- ## 🛠 OS - I Use
- <p align="center">
-    <img src="https://skillicons.dev/icons?i=ubuntu,windows,linux" />
- </p>
+ ##💻 OS - I Use
+   <p align="center">
+      <img src="https://skillicons.dev/icons?i=ubuntu,windows,linux" />
+   </p>
