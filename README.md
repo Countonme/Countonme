@@ -40,3 +40,10 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=ubuntu,windows,linux" />
 </p>
+
+## 🖥️ Containers
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker" />
+</p>
+
+
