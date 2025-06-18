@@ -42,5 +42,5 @@
 
 ### 📦 Containers & Orchestration
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker" width="120px"  />
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker" width="60px"  />
 </p>
