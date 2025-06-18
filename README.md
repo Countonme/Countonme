@@ -27,7 +27,7 @@
 
 ### 💻 Languages I Use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,qt,rust,dotnet,python,java,go,js,ts,swift,php,r,ruby,delphi" width="64px"  />
+  <img src="https://skillicons.dev/icons?i=c,cpp,qt,rust,dotnet,python,java,go,js,ts,swift,php,r,ruby,delphi" width="600px"  />
 </p>
 
 ### 🧰 IDEs I Use
