@@ -37,10 +37,10 @@
 
 ### 🖥️ Operating Systems
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ubuntu,windows,linux" width="600px"  />
+  <img src="https://skillicons.dev/icons?i=ubuntu,windows,linux" width="120px"  />
 </p>
 
 ### 📦 Containers & Orchestration
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker" width="600px"  />
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker" width="120px"  />
 </p>
