@@ -32,15 +32,15 @@
 
 ### 🧰 IDEs I Use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,phpstorm,idea,webstorm,pycharm,rider,robloxstudio,eclipse,clion,anaconda,arduino,vim,visualstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,phpstorm,idea,webstorm,pycharm,rider,robloxstudio,eclipse,clion,anaconda,arduino,vim,visualstudio,vscode" width="600px"  />
 </p>
 
 ### 🖥️ Operating Systems
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ubuntu,windows,linux" />
+  <img src="https://skillicons.dev/icons?i=ubuntu,windows,linux" width="600px"  />
 </p>
 
 ### 📦 Containers & Orchestration
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker" width="600px"  />
 </p>
