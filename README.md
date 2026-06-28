@@ -1,9 +1,4 @@
-<!-- ========================= -->
-<!--        HEADER             -->
-<!-- ========================= -->
-
-<h1 align="center">Hi 👋 I'm  Shengbi</h1>
-
+<h1 align="center">Hi，I'm  Shengbi</h1>
 <h3 align="center">
 🇨🇳 热爱技术的全栈开发者 · 嵌入式工程师 · IoT Enthusiast <br>
 🇺🇸 Passionate Full-Stack Developer · Embedded Engineer · Tech Explorer <br>
