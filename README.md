@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=.NET+%7C+Rust+%7C+C%2FC%2B%2B+%7C+Qt+%7C+IoT+%7C+Kafka+%7C+MQTT;Industrial+Software+Developer;Embedded+Systems+Engineer;AI+%7C+Cyber+Security+%7C+Distributed+Systems" />
 </p>
-
 ---
 
 <div align="center">
