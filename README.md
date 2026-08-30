@@ -127,12 +127,7 @@ alt="Alipay"
 width="150px"
 style="border-radius:14px; margin-right:25px; box-shadow:0 6px 18px rgba(0,0,0,0.25);" />
 
-<img src="https://github.com/user-attachments/assets/d93ad771-a292-4bd6-a44b-543c424538b7"
-alt="WeChat"
-width="150px"
-style="border-radius:14px; box-shadow:0 6px 18px rgba(0,0,0,0.25);" />
 
-</div>
 
 ---
 
