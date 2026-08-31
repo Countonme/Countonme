@@ -46,9 +46,9 @@
 - 🇻🇳 Đam mê AI, An ninh mạng & Hệ thống phân tán  
 
 <br>
-- 📫 🇨🇳 长期培养开发新人，分享开发经验与工程实践
-- 📫 🇺🇸 Long-term technical mentor, helping developers grow through real-world engineering experience
-- 📫 🇻🇳 Hướng dẫn và đào tạo lập trình viên mới, chia sẻ kinh nghiệm và thực tiễn phát triển phần mềm
+📫 🇨🇳 长期培养开发新人，分享开发经验与工程实践
+📫 🇺🇸 Long-term technical mentor, helping developers grow through real-world engineering experience
+📫 🇻🇳 Hướng dẫn và đào tạo lập trình viên mới, chia sẻ kinh nghiệm và thực tiễn phát triển phần mềm
 
 </td>
 
