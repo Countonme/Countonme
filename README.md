@@ -123,7 +123,7 @@ style="border-radius:16px;"/>
 # 💰 Support Me | 支持我 | Ủng hộ tôi
 
 <p align="center">
-🇨🇳 如果你喜欢我的项目，可以通过支付宝或微信支持我 <br>
+🇨🇳 如果你喜欢我的项目，可以通过支付宝或微信支持我 *<br>
 🇺🇸 If you like my work, you can support me via Alipay or WeChat <br>
 🇻🇳 Nếu bạn thích dự án của tôi, bạn có thể ủng hộ qua Alipay hoặc WeChat
 </p>
