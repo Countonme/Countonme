@@ -108,13 +108,20 @@ style="border-radius:16px;"/>
 
 <div align="center">
 
-<a href="mailto:yysvent@163.com">
-  <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Countonme">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<table>
+  <tr>
+    <td align="left">
+      <a href="mailto:yysvent@163.com">
+        <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
+      </a>
+    </td>
+    <td align="right">
+      <a href="https://github.com/Countonme">
+        <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
