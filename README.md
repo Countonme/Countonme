@@ -143,7 +143,7 @@ style="border-radius:16px;"/>
       <img
         src="https://github.com/user-attachments/assets/657f1fd0-2a70-411e-9aa1-0bd81bb8f033"
         alt="Alipay"
-        width="180"
+        width="280"
         style="border-radius:14px; box-shadow:0 6px 18px rgba(0,0,0,0.25);"
       />
     </td>
@@ -151,7 +151,7 @@ style="border-radius:16px;"/>
       <img
         src="https://github.com/user-attachments/assets/a6638108-4ee8-4d7d-8023-5e0cd124f86a"
         alt="Wechat"
-        width="180"
+        width="280"
         style="border-radius:14px; box-shadow:0 6px 18px rgba(0,0,0,0.25);"
       />
     </td>
