@@ -135,8 +135,10 @@ alt="Alipay"
 width="150px"
 style="border-radius:14px; margin-right:25px; box-shadow:0 6px 18px rgba(0,0,0,0.25);" />
 
-<img width="150" height="1014" alt="Wechat" 
-  src="https://github.com/user-attachments/assets/a6638108-4ee8-4d7d-8023-5e0cd124f86a" />
+<img width="150px"  alt="Wechat" 
+  src="https://github.com/user-attachments/assets/a6638108-4ee8-4d7d-8023-5e0cd124f86a"
+  style="border-radius:14px; margin-right:25px; box-shadow:0 6px 18px rgba(0,0,0,0.25);" 
+  />
 
 
 ---
